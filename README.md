@@ -4,6 +4,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poisonbatata&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
 
+---
+<p>Visitas ao meu perfil:</p>
+<img src="https://profile-counter.glitch.me/poisonbatata/count.svg">
+---
+
 <img src="http://www.hackthebox.eu/badge/image/437365" alt="Hack The Box">
 
 <!--
