@@ -1,7 +1,7 @@
 ### <h2 align="center">Olá <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="30px">, Eu sou o Poison.</h2>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poisonbatata&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poisonbatata&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poisonbatata&layout=compact&langs_count=9&theme=github_dark"/>
 </p>
 
 ---
@@ -12,6 +12,7 @@
 <div class="badges">
   <div class="dark-theme">
     <a href="https://www.linux.org/#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" /></a>&nbsp;
+    <a href="https://www.python.org/#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" /></a>&nbsp;
     <a href="https://go.dev/#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go" /></a>&nbsp;
     <a href="https://git-scm.com/#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" /></a>&nbsp;
     <a href="https://www.gnu.org/software/bash/#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash" /></a>&nbsp;
@@ -23,6 +24,7 @@
 
   <div class="light-theme">
     <a href="https://www.linux.org/#gh-light-mode-only"><img src="https://img.shields.io/badge/-Linux-F5F5F5?style=flat&logo=linux" /></a>&nbsp;
+    <a href="https://www.python.org/#gh-light-mode-only"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" /></a>&nbsp;
     <a href="https://go.dev/#gh-light-mode-only"><img src="https://img.shields.io/badge/-Go-F5F5F5?style=flat&logo=go" /></a>&nbsp;
     <a href="https://git-scm.com/#gh-light-mode-only"><img src="https://img.shields.io/badge/-Git-F5F5F5?style=flat&logo=git" /></a>&nbsp;
     <a href="https://www.gnu.org/software/bash/#gh-light-mode-only"><img src="https://img.shields.io/badge/-Bash-F5F5F5?style=flat&logo=gnu-bash" /></a>&nbsp;
